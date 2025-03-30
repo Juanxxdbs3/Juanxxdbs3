@@ -1,4 +1,3 @@
 - 👋 This is me: @Juanxxdbs3
-- still doubting about pointers on cpp 😢
 - Systems engineering student 👨‍💻
 - Colombia 
