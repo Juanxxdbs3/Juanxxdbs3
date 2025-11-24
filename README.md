@@ -1,3 +1,3 @@
 - 👋 This is me: @Juanxxdbs3
 - Systems engineering student 👨‍💻
-- Colombia 
+- I´m looking to develop embedded systems and connect them to deep learning models or Llms.
